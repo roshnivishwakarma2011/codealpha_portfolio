@@ -2,7 +2,7 @@
 
 > A modern, fully responsive personal portfolio website showcasing my skills, projects, experience, and achievements as a Full Stack Developer.
 
-![Portfolio Banner](preview.png)
+
 
 ---
 
